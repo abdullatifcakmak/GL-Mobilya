@@ -7,8 +7,4 @@
 - Her sayfa parçalanarak dinamikleştirilmiştir.
 - Responsive tasarım mevcuttur.
 
-## 👥 Takım Arkadaşları
-Bu proje aşağıdaki ekip üyeleri tarafından geliştirilmiştir:
 
-- [🧑‍💻 Abdullatif Çakmak](https://github.com/abdullatifcakmak) 
-- [👩‍🎨 Gizem Yerlikaya](https://github.com/GizemYerlikayaa) 
